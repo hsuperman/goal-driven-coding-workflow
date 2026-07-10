@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement"
+  short_description: "Deliver a scoped change with preflight and verification."
+  default_prompt: "Implement this task with a focused verification loop."

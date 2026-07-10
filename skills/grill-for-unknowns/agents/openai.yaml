@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill for Unknowns"
+  short_description: "Stress-test a goal or implementation plan."
+  default_prompt: "Challenge this goal for unknowns before we plan work."

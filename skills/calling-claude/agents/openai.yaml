@@ -1,0 +1,4 @@
+interface:
+  display_name: "Calling Claude"
+  short_description: "Run Claude CLI for focused delegated work."
+  default_prompt: "Use Claude to investigate this task."

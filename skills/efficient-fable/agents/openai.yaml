@@ -1,0 +1,4 @@
+interface:
+  display_name: "Efficient Fable"
+  short_description: "Use Fable for judgment and cheaper agents for bounded work."
+  default_prompt: "Plan this codebase-heavy task using Fable efficiently."

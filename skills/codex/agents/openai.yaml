@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Review"
+  short_description: "Get an independent Codex review or second opinion."
+  default_prompt: "Review this approach with Codex and identify risks."

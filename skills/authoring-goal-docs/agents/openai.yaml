@@ -1,0 +1,4 @@
+interface:
+  display_name: "Author Goal Docs"
+  short_description: "Research a codebase into a durable product goal."
+  default_prompt: "Create a goal document for this codebase."

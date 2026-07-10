@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrate Subtasks"
+  short_description: "Delegate, verify, and integrate a task batch."
+  default_prompt: "Execute this task batch through scoped subagents."

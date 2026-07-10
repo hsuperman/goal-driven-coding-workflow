@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gap Analysis"
+  short_description: "Turn a product goal into an ordered task queue."
+  default_prompt: "Compare this goal to the codebase and propose the next tasks."

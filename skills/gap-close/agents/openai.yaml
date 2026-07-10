@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gap Close"
+  short_description: "Execute an approved task queue for a goal."
+  default_prompt: "Execute the ready task queue for this goal."
