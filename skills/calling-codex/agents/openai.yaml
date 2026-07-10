@@ -1,4 +1,0 @@
-interface:
-  display_name: "Calling Codex"
-  short_description: "Run Codex CLI tasks with reusable session context."
-  default_prompt: "Use Codex CLI to work on this task."

@@ -12,7 +12,7 @@ Find the smallest sequence of tasks that closes the meaningful distance between 
 1. Read the goal, its open-work tracker, relevant project docs, recent history, and current code.
 2. Parallelize independent evidence gathering; keep final judgment with the orchestrator.
 3. Record confirmed behavior, contradicted tracker claims, missing capabilities, regressions, and dependencies.
-4. Get an independent Codex second opinion on the proposed task set using `codex` or `calling-codex`.
+4. Get an independent Codex second opinion on the proposed task set using `codex`.
 5. Propose tasks in execution order, each with outcome, expected scope, dependencies, risk, and acceptance checks.
 6. Get approval for any material scope or product choices.
 7. Write one self-contained task file per approved item and update the goal tracker.

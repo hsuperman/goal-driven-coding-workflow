@@ -17,7 +17,7 @@ Give each agent a self-contained prompt with the objective, in/out-of-scope file
 
 Route work deliberately:
 
-- Codex: general coding, debugging, and multi-file reasoning.
+- Codex (`codex`): general coding, debugging, multi-file reasoning, and independent review.
 - Claude/Fable: architecture or UI work requiring design judgment.
 - Lightweight agents: bounded research, inventories, and mechanical checks.
 
